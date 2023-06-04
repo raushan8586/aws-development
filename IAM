@@ -1,0 +1,8 @@
+IAM
+Create Group
+Attach Policy to the group - administratorAccess
+
+Create user
+Add the user the group, created --> Download the csv
+Signout root user
+sign In IAM user
