@@ -11,3 +11,54 @@ Routes
 CIDR:
 https://cidr.xyz/
 https://www.ipaddressguide.com/cidr
+
+
+
+CIDR -- Classless Inter-Domain Routing
+It signifies the range of IP addresses
+
+VPC -- 172.31.0.0/16
+
+Total number of IP addresses denoted by the CIDR? what all IPs?
+
+172.31.0.0 --> Base IP
+/16 --> Subnet Mask
+
+Total number of IP addresses denoted by the CIDR depends on the subnet mask
+
+32-16=16, 2^16 = 65536
+
+172.31.0.0/24 --> 256
+
+172.31.0.0/32 -- 1
+
+172.31.0.0
+
+11111111.11111111.11111111.11111111
+
+255.255.255.255
+
+172.31.0.0/16 --> 256
+172.31.0.0
+172.31.0.1
+172.31.0.2
+..
+..
+172.31.0.255 --> 256th IP
+172.31.1.0  -> 257th IP
+172.31.1.1
+172.31.1.2
+..
+..
+172.31.1.255 --> 512th IP
+172.31.2.0
+172.31.2.1
+172.31.2.2
+..
+..
+172.31.2.255
+..
+..
+172.31.255.255
+
+0.0.0.0/0  -> 2^32
