@@ -1,2 +1,6 @@
 VPC is at the Region level
 Subnets are the AZs level
+
+VPC-IGW: 1-1
+
+
