@@ -62,3 +62,21 @@ Total number of IP addresses denoted by the CIDR depends on the subnet mask
 172.31.255.255
 
 0.0.0.0/0  -> 2^32
+
+VPC: 172.31.0.0/16        --> 172.31.0.0 -- 172.31.255.255
+
+Subnet 1: 172.31.0.0/20   --> 172.31.0.0 --- 172.31.15.255
+Subnet 2: 172.31.16.0/20  --> 172.31.16.0 -- 172.31.31.255
+Subnet 3: 172.31.32.0/20  --> 172.31.32.0 -- 172.31.47.255
+
+Subnet 4: 172.31.48.0/20 --> 172.31.48.0 -- 172.31.63.255
+
+IANA --> Internet Assigned Numbers Authority
+
+IPv4 Private Address Space and Filtering
+10.0.0.0/8 IP addresses: 10.0. 0.0 – 10.255. 255.255.
+172.16.0.0/12 IP addresses: 172.16. 0.0 – 172.31. 255.255.
+192.168.0.0/16 IP addresses: 192.168. 0.0 – 192.168.255.255.
+
+
+Rest IPS are Public IPs
