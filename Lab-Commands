@@ -1,0 +1,7 @@
+VPC peering
+clear
+    2  vi my-first-key-pair.pem
+    3  chmod 400 my-first-key-pair.pem
+    4  ssh -i "my-first-key-pair.pem" ubuntu@13.212.195.52
+    5  exit
+    6  ssh -i "my-first-key-pair.pem" ubuntu@10.0.0.136
