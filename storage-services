@@ -9,3 +9,24 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 Make a volume available ot use
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
+
+
+
+    1  df -h
+    2  cd /
+    3  ls -l
+    4  clear
+    5  lsblk
+    6  fdisk -l
+    7  lsblk
+    9  clear
+   10  df -h
+   11  lsblk
+   12  fdisk -l
+   13  df -h
+   14  mkfs.ext4 /dev/xvdf
+   15  lsblk -f
+   16  mkdir /edureka
+   17  mount /dev/xvdf /edureka
+   18  df -h
+   19  cd /edureka/
