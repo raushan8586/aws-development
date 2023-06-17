@@ -5,3 +5,7 @@ EC2 Instance Store --> https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Insta
 EBS:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+
+
+Make a volume available ot use
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
