@@ -1,3 +1,5 @@
 https://docs.aws.amazon.com/cli/latest/reference/
 
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html#launching-instances
+
 https://aws.amazon.com/blogs/security/new-attach-an-aws-iam-role-to-an-existing-amazon-ec2-instance-by-using-the-aws-cli/#:~:text=To%20create%20an%20IAM%20role%20from%20the%20AWS%20CLI%3A,json.&text=Call%20the%20attach%2Drole%2Dpolicy,access%20resources%20in%20your%20account.
