@@ -2,3 +2,36 @@ https://hub.docker.com/
 https://docs.docker.com/
 
 
+
+Commands
+sudo su -
+1  apt update -y
+    2  clear
+    3  docker version
+    4  apt intall docker.io -y
+    5  apt install docker.io -y
+    6  clear
+    7  docker version
+    8  docker images
+    9  history
+   10  clear
+   11  docker images
+   12  docker pull httpd
+   13  docker images
+   14  docker pull fedora
+   15  docker images
+   16  docker container ls
+   17  docker ps
+   18  docker inspect httpd
+   19  docker run -itd -p 82:80 httpd
+   20  docker ps
+   21  lsof -i -P -n | grep LISTEN
+   22  docker run -itd -p 83:80 httpd
+   23  docker pull tomcat
+   24  docker inspect tomcat
+   25  lsof -i -P -n | grep LISTEN
+   26  docker ps
+   27  lsof -i -P -n | grep LISTEN
+   28  history
+
+
