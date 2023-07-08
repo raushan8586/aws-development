@@ -1,0 +1,5 @@
+3 CLIs
+1. awscli (aws --version)
+2. kubectl (kubectl version)
+3. eksctl (eksctl version
+https://github.com/weaveworks/eksctl/blob/main/README.md#installation
