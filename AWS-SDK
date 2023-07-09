@@ -5,10 +5,6 @@ https://docs.aws.amazon.com/cloud9/latest/user-guide/welcome.html
 Install cloud9 FROM CLI -->
 https://docs.aws.amazon.com/cli/latest/reference/cloud9/create-environment-ec2.html
 
-
-Boto3 --> Python
-https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
-
 AWS SDK --> https://github.com/awsdocs/aws-doc-sdk-examples.git
 
 Java SDK
@@ -16,6 +12,10 @@ https://aws.amazon.com/sdk-for-java/
 
 Repos:
 https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code
+
+Python SDK-->
+Boto3 --> Python
+https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 
 
 
