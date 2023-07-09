@@ -23,6 +23,9 @@ https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code
 
 Python SDK-->
 Boto3 --> Python
+
+Python is installed
+boto3 is installed --> pip install boto3
 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
 
 
