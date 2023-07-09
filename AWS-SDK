@@ -5,17 +5,21 @@ https://docs.aws.amazon.com/cloud9/latest/user-guide/welcome.html
 Install cloud9 FROM CLI -->
 https://docs.aws.amazon.com/cli/latest/reference/cloud9/create-environment-ec2.html
 
-AWS SDK --> https://github.com/awsdocs/aws-doc-sdk-examples.git
+AWS SDK Repo --> https://github.com/awsdocs/aws-doc-sdk-examples.git
+
+AWS Toolkit for JetBrains --> https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/welcome.html
 
 Java SDK
 https://aws.amazon.com/sdk-for-java/
 
-AWS Toolkit for JetBrains --> https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/welcome.html
-
-IntelliJ --> https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/setup-toolkit.html
+IntelliJ --> 
+https://aws.amazon.com/intellij/
+https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/setup-toolkit.html
 
 Repos:
 https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code
+
+
 
 Python SDK-->
 Boto3 --> Python
